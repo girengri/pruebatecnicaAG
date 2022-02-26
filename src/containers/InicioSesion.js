@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const InicioSesion = () => {
-  return (
-    <div>InicioSesion</div>
-  )
-}
+  return <div>InicioSesion</div>;
+};
 
-export default InicioSesion
+export default InicioSesion;
