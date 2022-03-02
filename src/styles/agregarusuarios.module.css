@@ -1,0 +1,11 @@
+.erroresFormik {
+  text-align: center;
+  font-weight: 800;
+  color: #0e3fa9;
+  font-size: 1rem;
+}
+
+.labelfecha {
+  font-size: 1rem;
+  color: blue;
+}

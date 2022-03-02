@@ -1,0 +1,15 @@
+.contenedorNav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 2rem;
+}
+
+.links {
+  text-decoration: none;
+  padding: 1rem;
+}
+
+.cerrarsesion {
+  cursor: pointer;
+}
