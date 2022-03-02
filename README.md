@@ -6,7 +6,7 @@ Git Innova es la plataforma perfecta para los evaluadores de candidatos, en los 
 Con git innova puede agregar la información basica del candidato en evaluación, consultar los repositorios publicos que tiene en github y buscar por nombre del repositorio.
 
 
-Puede verlo aquí: <https://blockmasterapp-f8bbb.web.app/>
+Puede verlo aquí: <https://pruebatecnicaag-6f2f7.web.app/>
 
 ## Requerimientos
 - Tener habilitado JavaScript en el Navegador
