@@ -1,7 +1,7 @@
 # 👓 GIT INNOVA
 
 
-Git Innova es la plataforma perfecta para los evaluadores de candidatos de los procesos de seleccion.&nbsp; &nbsp; &nbsp;&nbsp;
+Git Innova es la plataforma perfecta para los evaluadores de candidatos, en los procesos de seleccion.&nbsp; &nbsp; &nbsp;&nbsp;
 
 Con git innova puede agregar la información basica del candidato en evaluación, consultar los repositorios publicos que tiene en github y buscar por nombre del repositorio.
 
