@@ -42,7 +42,7 @@ const InicioSesion = () => {
         <img
           src="https://res.cloudinary.com/girengri/image/upload/v1645924148/icons8-octocat-50_rqfhob.png"
           alt="logo"
-          className={styles.logoprincipal}
+          className={styles.logoprincipal} 
         />
       </div>
 
