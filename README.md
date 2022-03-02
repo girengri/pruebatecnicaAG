@@ -1,4 +1,4 @@
-# 🍿 GIT INNOVA
+# 👓 GIT INNOVA
 
 
 Git Innova es la plataforma perfecta para los evaluadores de candidatos de los procesos de seleccion.&nbsp; &nbsp; &nbsp;&nbsp;
