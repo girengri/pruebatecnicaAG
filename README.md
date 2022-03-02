@@ -25,12 +25,10 @@ npm start
 
 ### 💻 Escritorio
   
-![logo](https://res.cloudinary.com/girengri/image/upload/v1645216368/blockmasterimagenes/screencapture-blockmasterapp-f8bbb-web-app-iniciarsesion-2022-02-18-15_32_34_oschid.png)
-![logo](https://res.cloudinary.com/girengri/image/upload/v1645216409/blockmasterimagenes/screencapture-blockmasterapp-f8bbb-web-app-registro-2022-02-18-15_33_15_dsabzj.png)
-![logo](https://res.cloudinary.com/girengri/image/upload/v1645216938/blockmasterimagenes/screencapture-blockmasterapp-f8bbb-web-app-2022-02-18-15_42_03_bpslfy.png)
-![logo](https://res.cloudinary.com/girengri/image/upload/v1645217073/blockmasterimagenes/screencapture-blockmasterapp-f8bbb-web-app-masvaloradas-2022-02-18-15_43_07_oyz7iz.png)
-![logo](https://res.cloudinary.com/girengri/image/upload/v1645216630/blockmasterimagenes/screencapture-blockmasterapp-f8bbb-web-app-registroPeliculas-2022-02-18-15_36_55_q4r52e.png)
-
+![logo](https://res.cloudinary.com/girengri/image/upload/v1646195425/puebatecnica/screencapture-pruebatecnicaag-6f2f7-web-app-iniciarsesion-2022-03-01-23_25_21_ubv77g.png)
+![logo](https://res.cloudinary.com/girengri/image/upload/v1646195424/puebatecnica/screencapture-pruebatecnicaag-6f2f7-web-app-registroaplicacion-2022-03-01-23_25_32_rr0lgd.png)
+![logo](https://res.cloudinary.com/girengri/image/upload/v1646195423/puebatecnica/screencapture-pruebatecnicaag-6f2f7-web-app-2022-03-01-23_24_44_cpczhd.png)
+![logo](https://res.cloudinary.com/girengri/image/upload/v1646195422/puebatecnica/screencapture-pruebatecnicaag-6f2f7-web-app-usuariosregistrados-2022-03-01-23_25_02_oyu8ar.png)
 
 ## 📌 Stack
 
