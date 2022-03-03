@@ -48,7 +48,7 @@ export const ListaRepositorios = () => {
                 variant="listview"
                 pageSize={5}
             >
-                <Column header="Nombre" field="name" />
+                <Column header="Nombre" field="name" sortable />
                 <Column header="Lenguaje" field="language" />
                 <Column header="Branch" field="default_branch" />
                 <Column header="Url" field="url" />
